@@ -1,0 +1,5 @@
+Enabled,Group,Name,Type,Address,Site,Status,Protocol,Description,ID,
+YES,Anonymous_Hall,SBDPH_B_E0011B8,EM3550,10.159.2.11/502/8,Anonymous_Hall,Site Available,MODBUS,,274,1
+YES,Dartmouth_Hall,DART_HALL_EM_ATS,PM8000,10.21.129.29/7700,<Ethernet/STRUX-APP01-PRD>,Device Connected,ION,,427,1
+YES,Fairchild,ATS_EM_E0102EM,Russelectric_RPTCS_ATS_v2,10.79.2.138/502,<Ethernet/STRUX-APP01-PRD>,Device Connected,MODBUS,,480,1
+YES,Andres,ATS_SB_E0118SB,PM8000,10.21.12.12/7700,<Ethernet/STRUX-APP01-PRD>,Device Connected,ION,,505,1
